@@ -1,4 +1,4 @@
-# Playing with SunFounder SensorKit for RPi
+# Playing with the SunFounder SensorKit for RPi
 
 I bought https://www.amazon.co.uk/dp/B014PF05ZA/ref=pe_385721_51767431_TE_dp_1 to teach myself the basics of electronics. Should be fun?
 
